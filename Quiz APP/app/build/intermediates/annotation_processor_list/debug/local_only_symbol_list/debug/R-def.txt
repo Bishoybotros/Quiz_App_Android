@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id ans_A
+id ans_B
+id ans_C
+id ans_D
+id choices_layout
+id question
+id submit_btn
+id total_question
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyQuizApplication
